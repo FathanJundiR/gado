@@ -5,6 +5,7 @@
 - React
 - Tanstack Router
 - Tanstack Query
+- Tailwind 3
 - Zod
 ## Backend
 
